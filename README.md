@@ -1,11 +1,10 @@
 # Eloy Rengel
 
 **Computer Engineer · IT Support & Networks · Junior Backend Developer**
+
 **Ingeniero en Informática · Soporte TI y Redes · Desarrollador Backend Junior**
 
 Cumaná, Venezuela
-
----
 
 ## Projects / Proyectos
 
